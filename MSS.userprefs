@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MyCharacterController.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharactorCamera.js">
     <Files>
       <File FileName="../chpter6/Assets/Script/Widget_Status.js" Line="60" Column="25" />
-      <File FileName="Assets/Scripts/MyCharacterController.js" Line="51" Column="4" />
+      <File FileName="Assets/Scripts/MyCharacterController.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MyGUI.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MyCharacterStatus.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharactorCamera.js" Line="101" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
